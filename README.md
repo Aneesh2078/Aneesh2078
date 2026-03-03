@@ -46,12 +46,6 @@ Interactive game built using JavaScript with DOM manipulation.
 
 ---
 
-## 📊 GitHub Stats
-
-![Aneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneesh2078&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: https://linkedin.com/in/aneesh-bhat  
